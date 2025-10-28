@@ -1,3 +1,0 @@
-/home/mgl/桌面/muduo/my/build/CMakeFiles/mymuduo.dir
-/home/mgl/桌面/muduo/my/build/CMakeFiles/edit_cache.dir
-/home/mgl/桌面/muduo/my/build/CMakeFiles/rebuild_cache.dir
